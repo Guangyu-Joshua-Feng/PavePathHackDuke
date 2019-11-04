@@ -1,0 +1,3 @@
+To update accessible path: move marker to the starting point of the path and click on "update accessible path" buttom. Then move marker to ending point of the path and click on "update accessible path" bottom. As a result, two points and a straight line in between will be recorded in the local browser storage data and in the output website the a green straight line with two ending points will be displayed.
+
+To update block: move marker to where the road block is and click on "update road block" buttom. As a result, road block location will be recorded in the local browser storage data and in the output website the red marker road block will be displayed.
